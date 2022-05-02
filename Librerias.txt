@@ -1,0 +1,6 @@
+npm i passport-google-oauth passport
+
+
+Documentacion
+http://www.passportjs.org/packages/passport-google-oauth/
+
